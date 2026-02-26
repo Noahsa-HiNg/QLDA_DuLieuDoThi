@@ -1,0 +1,6 @@
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+streamlit==1.31.0
+pydeck==0.8.1
+Faker==22.5.1

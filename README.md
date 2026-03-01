@@ -27,3 +27,4 @@ QLDA_DULIEUDOTHI/         <-- Thư mục gốc của dự án
 │
 ├── requirements.txt             <-- DANH SÁCH ĐỒ NGHỀ (Chứa tên các thư viện cần cài đặt)
 └── README.md                    <-- BẢN HƯỚNG DẪN (Giới thiệu cách chạy dự án cho Giảng viên)
+conda activate traffic_env

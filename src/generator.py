@@ -19,10 +19,10 @@ from faker import Faker
 # ==========================================================
 CONFIG = {
     # Số dòng dữ liệu cần sinh
-    "num_rows": 1000,
+    "num_rows": 1000000,
 
     # File output
-    "output_file": "data/raw_traffic_1000.csv",
+    "output_file": "data/raw_traffic_1000000.csv",
 
     # Số ngày gần đây để sinh timestamp (vd: 2 ngày gần nhất)
     "time": {

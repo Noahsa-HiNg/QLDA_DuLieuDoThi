@@ -19,7 +19,7 @@ from faker import Faker
 # ==========================================================
 CONFIG = {
     # Số dòng dữ liệu cần sinh
-    "num_rows": 1000,
+    "num_rows": 1000000,
 
     # File output
     "output_file": "data/raw_traffic_1000.csv",

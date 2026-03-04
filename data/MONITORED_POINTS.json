@@ -1,0 +1,402 @@
+[
+    {
+        "id": "trần_hưng_đạo_1",
+        "description": "Trần Hưng Đạo - Đoạn 1",
+        "lat": 16.071,
+        "lon": 108.227085,
+        "route_heading": 180.8,
+        "route_length_km": 0.86
+    },
+    {
+        "id": "trần_hưng_đạo_2",
+        "description": "Trần Hưng Đạo - Đoạn 2",
+        "lat": 16.076586,
+        "lon": 108.22832,
+        "route_heading": 170.07,
+        "route_length_km": 1.23
+    },
+    {
+        "id": "trần_hưng_đạo_3",
+        "description": "Trần Hưng Đạo - Đoạn 3",
+        "lat": 16.085836,
+        "lon": 108.229363,
+        "route_heading": 182.66,
+        "route_length_km": 1.16
+    },
+    {
+        "id": "trần_hưng_đạo_4",
+        "description": "Trần Hưng Đạo - Đoạn 4",
+        "lat": 16.098154,
+        "lon": 108.229406,
+        "route_heading": 175.59,
+        "route_length_km": 1.23
+    },
+    {
+        "id": "nguyễn_văn_linh_1",
+        "description": "Nguyễn Văn Linh - Đoạn 1",
+        "lat": 16.061565,
+        "lon": 108.2227,
+        "route_heading": 267.47,
+        "route_length_km": 1.43
+    },
+    {
+        "id": "nguyễn_văn_linh_2",
+        "description": "Nguyễn Văn Linh - Đoạn 2",
+        "lat": 16.062637,
+        "lon": 108.22843,
+        "route_heading": 277.25,
+        "route_length_km": 1.43
+    },
+    {
+        "id": "nguyễn_văn_linh_3",
+        "description": "Nguyễn Văn Linh - Đoạn 3",
+        "lat": 16.060917,
+        "lon": 108.237835,
+        "route_heading": 279.72,
+        "route_length_km": 1.01
+    },
+    {
+        "id": "nguyễn_văn_linh_4",
+        "description": "Nguyễn Văn Linh - Đoạn 4",
+        "lat": 16.062706,
+        "lon": 108.257999,
+        "route_heading": 272.19,
+        "route_length_km": 0.81
+    },
+    {
+        "id": "võ_nguyên_giáp_1",
+        "description": "Võ Nguyên Giáp - Đoạn 1",
+        "lat": 16.0594,
+        "lon": 108.249768,
+        "route_heading": 186.19,
+        "route_length_km": 1.22
+    },
+    {
+        "id": "võ_nguyên_giáp_2",
+        "description": "Võ Nguyên Giáp - Đoạn 2",
+        "lat": 16.07044,
+        "lon": 108.248622,
+        "route_heading": 187.2,
+        "route_length_km": 1.35
+    },
+    {
+        "id": "võ_nguyên_giáp_3",
+        "description": "Võ Nguyên Giáp - Đoạn 3",
+        "lat": 16.087881,
+        "lon": 108.250409,
+        "route_heading": 179.87,
+        "route_length_km": 1.0
+    },
+    {
+        "id": "điện_biên_phủ_1",
+        "description": "Điện Biên Phủ - Đoạn 1",
+        "lat": 16.066246,
+        "lon": 108.1899,
+        "route_heading": 91.17,
+        "route_length_km": 0.8
+    },
+    {
+        "id": "điện_biên_phủ_2",
+        "description": "Điện Biên Phủ - Đoạn 2",
+        "lat": 16.065106,
+        "lon": 108.195163,
+        "route_heading": 96.47,
+        "route_length_km": 1.44
+    },
+    {
+        "id": "điện_biên_phủ_3",
+        "description": "Điện Biên Phủ - Đoạn 3",
+        "lat": 16.068068,
+        "lon": 108.21749,
+        "route_heading": 94.72,
+        "route_length_km": 1.08
+    },
+    {
+        "id": "lê_duẩn_1",
+        "description": "Lê Duẩn - Đoạn 1",
+        "lat": 16.072283,
+        "lon": 108.2144,
+        "route_heading": 84.4,
+        "route_length_km": 1.09
+    },
+    {
+        "id": "lê_duẩn_2",
+        "description": "Lê Duẩn - Đoạn 2",
+        "lat": 16.072317,
+        "lon": 108.224173,
+        "route_heading": 92.86,
+        "route_length_km": 1.31
+    },
+    {
+        "id": "lê_duẩn_3",
+        "description": "Lê Duẩn - Đoạn 3",
+        "lat": 16.074726,
+        "lon": 108.239595,
+        "route_heading": 87.75,
+        "route_length_km": 1.3
+    },
+    {
+        "id": "lê_duẩn_4",
+        "description": "Lê Duẩn - Đoạn 4",
+        "lat": 16.071444,
+        "lon": 108.257119,
+        "route_heading": 86.55,
+        "route_length_km": 1.29
+    },
+    {
+        "id": "ngô_quyền_1",
+        "description": "Ngô Quyền - Đoạn 1",
+        "lat": 16.0784,
+        "lon": 108.241001,
+        "route_heading": 188.5,
+        "route_length_km": 0.84
+    },
+    {
+        "id": "ngô_quyền_2",
+        "description": "Ngô Quyền - Đoạn 2",
+        "lat": 16.085019,
+        "lon": 108.238973,
+        "route_heading": 172.47,
+        "route_length_km": 1.05
+    },
+    {
+        "id": "ngô_quyền_3",
+        "description": "Ngô Quyền - Đoạn 3",
+        "lat": 16.095722,
+        "lon": 108.239825,
+        "route_heading": 187.51,
+        "route_length_km": 1.18
+    },
+    {
+        "id": "ngô_quyền_4",
+        "description": "Ngô Quyền - Đoạn 4",
+        "lat": 16.11361,
+        "lon": 108.240657,
+        "route_heading": 177.09,
+        "route_length_km": 1.04
+    },
+    {
+        "id": "bạch_đằng_1",
+        "description": "Bạch Đằng - Đoạn 1",
+        "lat": 16.0683,
+        "lon": 108.223094,
+        "route_heading": 176.95,
+        "route_length_km": 1.15
+    },
+    {
+        "id": "bạch_đằng_2",
+        "description": "Bạch Đằng - Đoạn 2",
+        "lat": 16.081564,
+        "lon": 108.223825,
+        "route_heading": 171.54,
+        "route_length_km": 0.91
+    },
+    {
+        "id": "bạch_đằng_3",
+        "description": "Bạch Đằng - Đoạn 3",
+        "lat": 16.085915,
+        "lon": 108.225528,
+        "route_heading": 189.2,
+        "route_length_km": 1.13
+    },
+    {
+        "id": "hùng_vương_1",
+        "description": "Hùng Vương - Đoạn 1",
+        "lat": 16.067923,
+        "lon": 108.2148,
+        "route_heading": 82.05,
+        "route_length_km": 0.87
+    },
+    {
+        "id": "hùng_vương_2",
+        "description": "Hùng Vương - Đoạn 2",
+        "lat": 16.067352,
+        "lon": 108.219948,
+        "route_heading": 97.2,
+        "route_length_km": 1.42
+    },
+    {
+        "id": "hùng_vương_3",
+        "description": "Hùng Vương - Đoạn 3",
+        "lat": 16.067688,
+        "lon": 108.226118,
+        "route_heading": 94.68,
+        "route_length_km": 1.23
+    },
+    {
+        "id": "hùng_vương_4",
+        "description": "Hùng Vương - Đoạn 4",
+        "lat": 16.070351,
+        "lon": 108.245519,
+        "route_heading": 97.84,
+        "route_length_km": 0.83
+    },
+    {
+        "id": "nguyễn_hữu_thọ_1",
+        "description": "Nguyễn Hữu Thọ - Đoạn 1",
+        "lat": 16.0461,
+        "lon": 108.209326,
+        "route_heading": 177.09,
+        "route_length_km": 1.02
+    },
+    {
+        "id": "nguyễn_hữu_thọ_2",
+        "description": "Nguyễn Hữu Thọ - Đoạn 2",
+        "lat": 16.059389,
+        "lon": 108.210537,
+        "route_heading": 177.23,
+        "route_length_km": 0.9
+    },
+    {
+        "id": "nguyễn_hữu_thọ_3",
+        "description": "Nguyễn Hữu Thọ - Đoạn 3",
+        "lat": 16.056424,
+        "lon": 108.209964,
+        "route_heading": 180.25,
+        "route_length_km": 1.2
+    },
+    {
+        "id": "võ_văn_kiệt_1",
+        "description": "Võ Văn Kiệt - Đoạn 1",
+        "lat": 16.061059,
+        "lon": 108.2324,
+        "route_heading": 84.34,
+        "route_length_km": 0.99
+    },
+    {
+        "id": "võ_văn_kiệt_2",
+        "description": "Võ Văn Kiệt - Đoạn 2",
+        "lat": 16.062511,
+        "lon": 108.239196,
+        "route_heading": 89.89,
+        "route_length_km": 1.49
+    },
+    {
+        "id": "võ_văn_kiệt_3",
+        "description": "Võ Văn Kiệt - Đoạn 3",
+        "lat": 16.060325,
+        "lon": 108.254133,
+        "route_heading": 87.07,
+        "route_length_km": 1.08
+    },
+    {
+        "id": "phạm_văn_đồng_1",
+        "description": "Phạm Văn Đồng - Đoạn 1",
+        "lat": 16.075193,
+        "lon": 108.2405,
+        "route_heading": 85.7,
+        "route_length_km": 1.3
+    },
+    {
+        "id": "phạm_văn_đồng_2",
+        "description": "Phạm Văn Đồng - Đoạn 2",
+        "lat": 16.073895,
+        "lon": 108.25159,
+        "route_heading": 99.73,
+        "route_length_km": 1.11
+    },
+    {
+        "id": "phạm_văn_đồng_3",
+        "description": "Phạm Văn Đồng - Đoạn 3",
+        "lat": 16.075377,
+        "lon": 108.267883,
+        "route_heading": 88.78,
+        "route_length_km": 1.47
+    },
+    {
+        "id": "phạm_văn_đồng_4",
+        "description": "Phạm Văn Đồng - Đoạn 4",
+        "lat": 16.075205,
+        "lon": 108.280078,
+        "route_heading": 89.84,
+        "route_length_km": 1.26
+    },
+    {
+        "id": "hải_phòng_1",
+        "description": "Hải Phòng - Đoạn 1",
+        "lat": 16.073941,
+        "lon": 108.2173,
+        "route_heading": 81.75,
+        "route_length_km": 1.37
+    },
+    {
+        "id": "hải_phòng_2",
+        "description": "Hải Phòng - Đoạn 2",
+        "lat": 16.077613,
+        "lon": 108.231168,
+        "route_heading": 87.32,
+        "route_length_km": 1.19
+    },
+    {
+        "id": "hải_phòng_3",
+        "description": "Hải Phòng - Đoạn 3",
+        "lat": 16.074307,
+        "lon": 108.245792,
+        "route_heading": 84.92,
+        "route_length_km": 1.4
+    },
+    {
+        "id": "hải_phòng_4",
+        "description": "Hải Phòng - Đoạn 4",
+        "lat": 16.074082,
+        "lon": 108.232448,
+        "route_heading": 99.63,
+        "route_length_km": 0.96
+    },
+    {
+        "id": "tôn_đức_thắng_1",
+        "description": "Tôn Đức Thắng - Đoạn 1",
+        "lat": 16.060572,
+        "lon": 108.1633,
+        "route_heading": 83.57,
+        "route_length_km": 1.18
+    },
+    {
+        "id": "tôn_đức_thắng_2",
+        "description": "Tôn Đức Thắng - Đoạn 2",
+        "lat": 16.061508,
+        "lon": 108.170314,
+        "route_heading": 88.37,
+        "route_length_km": 1.41
+    },
+    {
+        "id": "tôn_đức_thắng_3",
+        "description": "Tôn Đức Thắng - Đoạn 3",
+        "lat": 16.061078,
+        "lon": 108.185924,
+        "route_heading": 86.08,
+        "route_length_km": 0.95
+    },
+    {
+        "id": "nguyễn_lương_bằng_1",
+        "description": "Nguyễn Lương Bằng - Đoạn 1",
+        "lat": 16.082941,
+        "lon": 108.1408,
+        "route_heading": 85.55,
+        "route_length_km": 0.87
+    },
+    {
+        "id": "nguyễn_lương_bằng_2",
+        "description": "Nguyễn Lương Bằng - Đoạn 2",
+        "lat": 16.081659,
+        "lon": 108.151791,
+        "route_heading": 99.62,
+        "route_length_km": 0.8
+    },
+    {
+        "id": "nguyễn_lương_bằng_3",
+        "description": "Nguyễn Lương Bằng - Đoạn 3",
+        "lat": 16.084352,
+        "lon": 108.17021,
+        "route_heading": 81.77,
+        "route_length_km": 0.98
+    },
+    {
+        "id": "đt602_1",
+        "description": "ĐT602 - Đoạn 1",
+        "lat": 16.059253,
+        "lon": 108.1388,
+        "route_heading": 263.01,
+        "route_length_km": 0.96
+    }
+]

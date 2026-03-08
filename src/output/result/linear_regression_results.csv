@@ -1,0 +1,2 @@
+model,train_rmse,val_rmse,test_rmse
+LinearRegression,0.5226443931111332,0.5222897158306984,0.5304476281180612
